@@ -1,0 +1,72 @@
+{
+  "book_id": "modernist-european-symbolist-colonial-aftermath",
+  "title": "The Colour of Weathered Bronze",
+  "tagline": "A mysterious crate from the Congo arrives at a fading Antwerp office, forcing a man to confront the silent, accusatory legacy of a colonial past he thought he had left behind.",
+  "target_words": 75388,
+  "actual_words": 75388,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Haunting of Colonial Legacy",
+    "Memory and Historical Amnesia",
+    "The Decay of Empire and Self",
+    "The Unreliable Solace of Architecture"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "A Grey Solvent, Leaching",
+      "words": 6853
+    },
+    {
+      "ch": 2,
+      "title": "The Cathedral of Steam and Anxiety",
+      "words": 6853
+    },
+    {
+      "ch": 3,
+      "title": "The Lion's Head, Worn Smooth",
+      "words": 6853
+    },
+    {
+      "ch": 4,
+      "title": "A Political Rain, Knowing Retreat",
+      "words": 6853
+    },
+    {
+      "ch": 5,
+      "title": "The Mouth That Forgot to Close",
+      "words": 6853
+    },
+    {
+      "ch": 6,
+      "title": "To Finally Read the Manifest",
+      "words": 6853
+    },
+    {
+      "ch": 7,
+      "title": "A Pause in the Mortar",
+      "words": 6853
+    },
+    {
+      "ch": 8,
+      "title": "Catacombs of Solidified Time",
+      "words": 6853
+    },
+    {
+      "ch": 9,
+      "title": "The Colour of Weathered Bronze",
+      "words": 6853
+    },
+    {
+      "ch": 10,
+      "title": "A Truce Written in Architecture",
+      "words": 6853
+    },
+    {
+      "ch": 11,
+      "title": "The Rain, A Broken Lens",
+      "words": 6853
+    }
+  ]
+}
